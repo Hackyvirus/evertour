@@ -29,7 +29,7 @@ const AboutPage = () => {
           <div className="bg-white rounded-2xl shadow-lg p-8">
             <h2 className="text-3xl font-bold text-[#AD8B73] mb-6">About Fergusson College</h2>
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
-              Fergusson College stands as one of India's most prestigious educational institutions, founded in 1885 by the Deccan Education Society. Named after Sir James Fergusson, the then Governor of Bombay, the college has been a beacon of academic excellence and cultural heritage for over 138 years.
+              Fergusson College stands as one of India&apos;s most prestigious educational institutions, founded in 1885 by the Deccan Education Society. Named after Sir James Fergusson, the then Governor of Bombay, the college has been a beacon of academic excellence and cultural heritage for over 138 years.
             </p>
             <p className="text-gray-700 text-lg leading-relaxed">
               Located in the heart of Pune, our institution has nurtured countless leaders, scholars, and innovators who have made significant contributions to society. We continue to uphold our founding principles of providing quality education while fostering critical thinking, creativity, and social responsibility.

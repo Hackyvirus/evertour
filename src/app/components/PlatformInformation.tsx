@@ -47,7 +47,7 @@ const PlatformInformation = () => {
           <div className="text-center bg-gradient-to-r from-[#AD8B73] to-[#CEAB93] rounded-2xl p-8 text-[#FFFBE9]">
             <h3 className="text-2xl font-bold mb-4">Ready to Explore?</h3>
             <p className="text-lg mb-6 opacity-90">
-              Take a virtual journey through Fergusson College and discover what makes us one of India's premier educational institutions.
+              Take a virtual journey through Fergusson College and discover what makes us one of India&apos;s premier educational institutions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="border-2 border-[#FFFBE9] rounded-md bg-transparent px-8 py-3 cursor-pointer font-bold text-[#FFFBE9] hover:bg-[#FFFBE9] hover:text-[#AD8B73] transition-all duration-300">
