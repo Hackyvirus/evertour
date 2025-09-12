@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@photo-sphere-viewer/core": "^5.14.0",
+    "@photo-sphere-viewer/map-plugin": "^5.14.0",
+    "@photo-sphere-viewer/markers-plugin": "^5.14.0",
+    "leaflet": "^1.9.4",
     "lucide-react": "^0.542.0",
     "maplibre-gl": "^5.7.1",
     "marzipano": "^0.10.2",
